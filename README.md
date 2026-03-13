@@ -2,9 +2,7 @@
 <div align="center">
   <img src="./header.svg" alt="Nisal - Electronics & IoT Engineer | API Developer" width="100%"/>
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&desc=Electronics%20%26%20IoT%20Engineer%20%7C%20API%20Developer&descAlignY=55&descSize=18&descColor=a8b2d8" />
-</div>
+
 
 <br/>
 
